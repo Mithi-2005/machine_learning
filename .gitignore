@@ -139,6 +139,7 @@ celerybeat.pid
 .envrc
 .venv
 env/
+29-MLflow/mlruns/
 venv/
 0-Assignments/venv/
 *.pkl
