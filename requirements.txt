@@ -157,3 +157,4 @@ wrapt==1.17.2
 xgboost==2.1.4
 zipp==3.21.0
 dvc
+bentoml==1.0.25
